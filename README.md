@@ -6,17 +6,10 @@
 
 ## About Me
 
-- 🌱 I'm Currenly a IMS (Informatikmittelschule) Student.
-- 💼 Currently working on my E-portfolio
-- 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Rubiks Cubes.
-- 🎓 Graduated from [Currently in School].
-
-## Technologies & Tools
-
-- Programming Languages: (HTML), CSS, Python, Batch, Java, php, Sql
-- Frameworks & Libraries: [Nothig yet]
-- Tools & Software: Powerpoint, Excel, Word, Unity, multiple Adobe Products, Oracle VM, Visual Studio Code, Vmware Workstation pro,
-  My Sql, MongoDB
+- 💼 I'm Currenly an IT-Student at @ims-informatikmittelschule-basel.
+- 📂 Currently working on school projects
+- 📕 Actual programming knowledge: HTML, CSS, PHP, Java, Python, SQL, NoSQL
+- ⌛️In freetime: Scouts, Volleyball, Gaming, Programming
 
 ## GitHub Stats
 
