@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 💼 I'm Currenly an IT-Student at @ims-informatikmittelschule-basel.
+- 💼 I'm Currenly an IT-Student at @ims-informatikmittelschule-basel .
 - 📂 Currently working on school projects
 - 📕 Actual programming knowledge: HTML, CSS, PHP, Java, Python, SQL, NoSQL
 - ⌛️In freetime: Scouts, Volleyball, Gaming, Programming
