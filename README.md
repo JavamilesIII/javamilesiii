@@ -1,16 +1,27 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=30&duration=6000&pause=1000&color=BDE9F7&background=FFFFFF00&vCenter=true&random=false&width=1000&height=100&lines=Hello%2C+I'm+%javamilesiii!%F0%9F%91%8B;Studying%3A+IT+specialist+application+development)](https://git.io/typing-svg)
+<div>
+<img src="https://komarev.com/ghpvc/?username=javamilesiii&style=for-the-badge&color=1a1b27" alt=""/>  
+</div>
 
-<!--
-**JavamilesIII/javamilesiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm Currenly a IMS (Informatikmittelschule) Student.
+- 💼 Currently working on my E-portfolio
+- 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Rubiks Cubes.
+- 🎓 Graduated from [Currently in School].
+
+## Technologies & Tools
+
+- Programming Languages: (HTML), CSS, Python, Batch, Java, php, Sql
+- Frameworks & Libraries: [Nothig yet]
+- Tools & Software: Powerpoint, Excel, Word, Unity, multiple Adobe Products, Oracle VM, Visual Studio Code, Vmware Workstation pro,
+  My Sql, MongoDB
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=javamilesiii&show_icons=true&theme=tokyonight)
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javamilesiii&layout=compact&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=15&duration=6000&pause=1000&color=BDE9F7&background=FFFFFF00&vCenter=true&random=false&width=1000&height=100&lines=touch+some+grass)](https://git.io/typing-svg)
